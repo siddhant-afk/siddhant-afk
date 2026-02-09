@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 Hi, I’m Siddhant 👋<br>MS CS student at USC Viterbi | Software Engineer<br>I build scalable systems, AI-driven applications, and real-world tech solutions.<br>Currently focused on full-stack development, cloud, and applied AI.
